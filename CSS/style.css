@@ -1,0 +1,319 @@
+.container-fluid{
+    padding: 1% 15%;
+    
+}
+
+.text-header{
+    color: white;
+    font-family: "Anton", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Navbar */
+
+.navbar-brand{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 100;
+}
+
+.nav-item{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+/* Download Buttons */
+
+.download-button{
+    margin: 5% 3% 5% 0;  
+}
+
+#google_play_icon{
+    height: 1.7rem;
+    padding-bottom: 3%;   
+}
+
+#google_play_icon:hover {
+    color: #fff;
+}
+
+#apple_icon{
+    height: 1.4rem;
+    padding-bottom: 5%;
+    padding-right: 7%;
+    padding-left: 0.9rem; 
+}
+
+
+
+/* Title section*/
+.title-image{
+    width: 40%;
+    margin-left: 9rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    position: relative;
+    right: 5%;
+}
+
+#title{
+    background-image: linear-gradient(to left top, #114f66, #1a6986, #2383a8, #2d9fcb, #37bcef);
+    
+}
+
+
+/* Feature section */
+
+
+#features{
+    background-color: #fff;
+    padding: 0% 5% 0% 5%;
+}
+
+
+.feature-box{
+    text-align: center;
+    padding: 5% 0% 5%;
+
+}
+
+.headerTextfeatures{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 1.5rem;
+    
+}
+
+.feature-text{
+    color: grey;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 1.4rem;
+
+}
+
+.location_icon{
+    width: 4rem;
+    padding-bottom: 5%;
+}
+
+.earth_icon{
+    width: 4rem;
+    padding-bottom: 5%;
+
+}
+
+.circle_icon{
+    width: 4rem;
+    padding-bottom: 5%;
+
+}
+
+/* Carousel Section */
+
+#Description{
+    background-color: #2587AC;
+    color: white;
+    font-family: "Anton", sans-serif;
+    padding-top: 7rem;
+    text-align: center;
+
+}
+
+.img-responsive{
+    padding-top: 5%;
+    width: 40rem;   
+
+}
+
+/* Logo Section */
+
+#press{
+    background-color: #2587AC;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.itour-logo{
+    width: 14rem;
+    
+}
+
+/* Language section */
+
+#language{
+    padding-left: 13%;
+    padding-right:13%;
+    text-align: center;
+}
+
+.box{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+}
+
+.textlanguage{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding-bottom: 2.5rem;
+
+}
+
+.LanguageIcon{
+    width:5rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.LanguageSelect{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+
+
+/* Call 2 Action */
+#cta{
+    background-image: linear-gradient(to left top, #114f66, #1a6986, #2383a8, #2d9fcb, #37bcef);
+    text-align: center;
+}
+
+.ctaText{
+    font-family: "Anton", sans-serif;
+    font-size: 3rem;
+    padding-top: 5%;
+    color: white;
+}
+
+.app-icon{
+   margin-top: 2.5rem;
+   text-align: center;
+   margin-bottom: 2%;
+}
+
+.qr-code{
+    width: 9rem;
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    -webkit-box-shadow: 1px 1px 19px -3px #000000; 
+    box-shadow: 1px 1px 19px -3px #000000;
+}
+
+
+/* Footer */
+
+#footer{
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+.FooterLinks{
+    font-size: 0.8rem;
+    padding: 1.5rem 3rem;  
+}
+
+a:link{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    text-decoration: none;
+    color: black;
+    padding-right: 0.5rem;
+    text-align: center; 
+}
+
+a:visited{
+    text-decoration: none;
+    color: rgb(75, 75, 78);
+}
+
+a:hover{
+    color: grey;
+    
+}
+
+/* Contact */
+
+.ContactBox{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+/* Cities */
+
+
+#Cities{
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.Cap{
+    font-family: "Anton", sans-serif;
+    color: black;
+    font-size: 3.75rem;
+    margin-top: 10rem;
+    
+}
+
+li{
+    list-style-type: none;
+    display:flex;
+}
+
+.LanguageIconSmall{
+    width: 1.7rem;
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.citynames{
+    padding-bottom: 3rem;
+
+}
+
+/* Privacy Policy */
+
+#PrivacyPoliy_Impressum{
+    background-color: #fff;
+    padding-right: 1%;
+    padding-left: 1%;
+    text-align: justify;
+}
+
+
+.copyright{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    padding-bottom: 2rem;
+    margin-bottom: 0%;
+}
+
+
+
+
+
+@media (max-width:991px){
+    h1{text-align: center; }
+   .buttons{text-align: center;}
+   .title-image{margin-left: 40%; width: 30%; margin-top: 2rem; margin-bottom: 4rem;}
+   .feature-box{padding-top: 3rem; padding-bottom: 3rem;}
+   
+}
+
+
+@media (max-width: 521px){
+   h1{padding-top: 10%;}
+   .buttons{padding-top:10%; padding-left: 9%;}
+   .title-image{width: 35%;}
+   .img-responsive{width: 22rem;}
+   .itour-logo{width: 10rem; padding-bottom: 1rem;}
+   .buttons-cta{margin-left: 2rem; margin-top: 2rem; padding-bottom: 2rem;}
+   .app-icon{margin-bottom: 8%;}
+   .qr-code{margin-bottom: 6%;}
+
+}
+
